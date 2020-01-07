@@ -10,7 +10,7 @@ python manage.py runserver
 ## Frontend development workflow
 
 ```json
-npm i
+npm install
 npm start
 ```
 
