@@ -50,8 +50,8 @@ class LoginForm extends React.Component {
               <Segment stacked>
                 <Form.Input
                   onChange={this.handleChange}
-                  value={username}
                   name="username"
+                  value={username}
                   fluid
                   icon="user"
                   iconPosition="left"
@@ -60,8 +60,8 @@ class LoginForm extends React.Component {
                 <Form.Input
                   onChange={this.handleChange}
                   fluid
-                  value={password}
                   name="password"
+                  value={password}
                   icon="lock"
                   iconPosition="left"
                   placeholder="Password"
