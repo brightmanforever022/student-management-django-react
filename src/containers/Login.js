@@ -70,8 +70,8 @@ class LoginForm extends React.Component {
 
                 <Button
                   color="teal"
-                  fluid
                   size="large"
+                  fluid
                   loading={loading}
                   disabled={loading}
                 >
